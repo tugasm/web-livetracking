@@ -14,7 +14,6 @@
   <body>
     <div id="map" style="height:500px"></div>
     <canvas id="mapCanvas" width="1000" height="450"></canvas>
-    <p>Grant GPS permission and wait for records to start appearing below:</p>
   </body>
    <!-- Make sure you put this AFTER Leaflet's CSS --> -->
  <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
